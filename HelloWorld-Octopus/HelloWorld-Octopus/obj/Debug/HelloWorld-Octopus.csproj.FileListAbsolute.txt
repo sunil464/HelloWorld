@@ -1,0 +1,6 @@
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\bin\Debug\HelloWorld-Octopus.exe.config
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\bin\Debug\HelloWorld-Octopus.exe
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\bin\Debug\HelloWorld-Octopus.pdb
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\obj\Debug\HelloWorld-Octopus.csprojAssemblyReference.cache
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\obj\Debug\HelloWorld-Octopus.exe
+C:\Users\ukonda\source\repos\HelloWorld-Octopus\HelloWorld-Octopus\obj\Debug\HelloWorld-Octopus.pdb
